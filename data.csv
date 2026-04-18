@@ -1,0 +1,11 @@
+service,response_time,uptime,latency,quality
+A,120,99,30,good
+B,300,95,80,bad
+C,200,97,50,average
+D,150,98,40,good
+E,400,92,100,bad
+F,180,96,60,average
+G,110,99,25,good
+H,350,93,90,bad
+I,220,97,55,average
+J,130,98,35,good
