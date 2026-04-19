@@ -1,18 +1,27 @@
-# Web Service Quality Classification
-
+## Web Service Quality Classification
 This project predicts the quality of web services based on performance metrics using Machine Learning.
 
+## Tech Stack
 - Python
 - Pandas
 - Scikit-learn
 - Random Forest Algorithm
 
+## Dataset
 Contains service metrics like response time, uptime, and latency.
 
+## Features
 - Data preprocessing
 - Label encoding
 - Model training using Random Forest
 - Quality prediction of services
 
+## Result
+-Model : Random Forest
+-Accuracy : 80%
+
+## Output
 Predicts whether a service is Good, Average, or Bad.
+
+##
 Shaik Mohammed Farooq
